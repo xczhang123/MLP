@@ -1,6 +1,6 @@
-## The results of experiment and ablation study can be found in MultiLayerPerceptron.ipynb
+The results of experiment and ablation study can be found in MultiLayerPerceptron.ipynb
 
-## What each file do:
+What each file do:
     - MultiLayerPerceptron.ipynb: main notebook
     - dataset: The folder contains both the training data and test data for the experiments
     - data_utils.py: The file contains a data utility function to read in the dataset required for training and testing
@@ -10,7 +10,7 @@
     - layer_utils.py: The file contains multiple composite of layers (from layers.py) that are commonly used for ease of access
     - optim.py: This file implements various first-order update rules that are commonly used for training neural networks.
 
-## To run the notebook:
+To run the notebook:
     - if on Google Colab: 
         Change Line 5 to match your file path
         Navigate to the 'Runtime' bar and click 'Run all' in the dropdown menu
